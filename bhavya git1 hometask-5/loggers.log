@@ -1,0 +1,14 @@
+2020-03-03 18:34:46 INFO  Tester:20 - Enter 1 to calculate Simple Interest  or 2 to calculate Compound Interest
+2020-03-03 18:38:07 INFO  Tester:22 - You entered option 1
+2020-03-03 18:38:07 INFO  Tester:23 - Enter principal , rate , time values
+2020-03-03 18:39:49 INFO  Tester:20 - Enter 1 to calculate Simple Interest  or 2 to calculate Compound Interest
+2020-03-03 18:39:53 INFO  Tester:22 - You entered option 1
+2020-03-03 18:39:53 INFO  Tester:23 - Enter principal , rate , time values
+2020-03-03 18:40:14 INFO  Tester:27 - Entered values are principal = 1256.0 rate = 5.0 time = 12.0
+2020-03-03 18:40:14 INFO  Tester:30 - Simple Interest calculated is : 753.6
+2020-03-03 18:40:14 INFO  Tester:40 - Enter Standard of the house to be consturcted
+2020-03-03 18:40:14 INFO  Tester:41 - Enter 1 for normal 2 for medium 3 for high
+2020-03-03 18:40:49 INFO  Tester:43 - Entered standard is 2
+2020-03-03 18:40:49 INFO  Tester:53 - Enter the area 
+2020-03-03 18:41:11 INFO  Tester:55 - Area entered is 3456.0
+2020-03-03 18:41:11 INFO  Tester:56 - Budget calculated is 5184000.0
